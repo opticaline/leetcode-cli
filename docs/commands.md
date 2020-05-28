@@ -234,7 +234,9 @@ Display question details. With `-g`/`-l`/`-x`, the code template would be auto g
     * golang
     * java
     * javascript
+    * kotlin
     * mysql
+    * php
     * python
     * python3
     * ruby
@@ -465,7 +467,7 @@ Display version information.
 Short:
 
     $ leetcode version
-    2.6.1
+    2.6.2
 
 Verbose:
 
@@ -475,7 +477,7 @@ Verbose:
     | | ___  ___| |_  ___  ___   __| | ___
     | |/ _ \/ _ \ __|/ __|/ _ \ / _` |/ _ \
     | |  __/  __/ |_  (__| (_) | (_| |  __/
-    |_|\___|\___|\__|\___|\___/ \__,_|\___|  CLI v2.6.1
+    |_|\___|\___|\__|\___|\___/ \__,_|\___|  CLI v2.6.2
 
     [Environment]
     Node                 v8.1.4
